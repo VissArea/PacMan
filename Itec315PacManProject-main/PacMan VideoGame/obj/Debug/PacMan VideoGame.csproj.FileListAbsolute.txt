@@ -1,0 +1,15 @@
+H:\MrsPacMan VideoGame\PacMan VideoGame\bin\Debug\PacMan VideoGame.exe.config
+H:\MrsPacMan VideoGame\PacMan VideoGame\bin\Debug\PacMan VideoGame.exe
+H:\MrsPacMan VideoGame\PacMan VideoGame\bin\Debug\PacMan VideoGame.pdb
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.csproj.AssemblyReference.cache
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\MainWindow.g.cs
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\App.g.cs
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame_MarkupCompile.cache
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame_MarkupCompile.lref
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\MainWindow.baml
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.g.resources
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan_VideoGame.Properties.Resources.resources
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.csproj.GenerateResource.cache
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.csproj.CoreCompileInputs.cache
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.exe
+H:\MrsPacMan VideoGame\PacMan VideoGame\obj\Debug\PacMan VideoGame.pdb
